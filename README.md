@@ -1,2 +1,2 @@
-# DbProile
+# DbProfile
 Database profile utility package.
